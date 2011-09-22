@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-#gem 'ruby-gsl-ng'
+gem 'ruby-gsl-ng'
 
 group :development, :test do
   gem 'cucumber'
