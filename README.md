@@ -21,6 +21,7 @@ Ubuntu:
 OSX: 
     
     sudo port install gsl
+    sudo port install gsl-devel
 
 Windows: 
     
